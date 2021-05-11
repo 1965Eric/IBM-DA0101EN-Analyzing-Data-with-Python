@@ -5,5 +5,9 @@
 * Read data using Python's Pandas package
 * Demonstrate how to import and export data in Python
 
+## Practice Quiz: Understanding the Data
+
+
+
 ## Importing Data Sets
 
