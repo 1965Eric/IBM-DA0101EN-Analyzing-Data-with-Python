@@ -33,5 +33,20 @@ Question 2: What does the following method do to the dataframe? df : df.head(12)
 - A. [X] Show the first 12 rows of dataframe.
 - B. [ ] Shows the bottom 12 rows of dataframe.
 
+## Practice Quiz: Getting Started Analyzing Data in Python
+
+Question 1: To enable a summary of all the columns, what must the parameter include be set to for the method describe?
+
+- A. [X] ```df.describe(include=“all”)```
+- B. [ ] ```df.describe(include=“None”)```
+
+## Lesson summary
+
+In this lesson, you have learned how to:
+
+* **Define the Business Problem**: Look at the data and make some high-level decision on what kind of analysis should be done
+* **Import and Export Data in Python**: How to import data from multiple data sources using the Pandas library and how to export files into different formats.
+* **Analyze Data in Python**: How to do some introductory analysis in Python using functions like dataframe.head() to view the first few lines of the dataset, ```dataframe.info()``` to view the column names and data types.
+
 ## Importing Data Sets
 
