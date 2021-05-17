@@ -74,3 +74,18 @@ Question 3: What task does the following command perform?
 - B. [ ] load the data from a csv file called "A" into a dataframe
 - C. [ ] change the name of the column to ```"A.csv"```
 
+Question 4: Consider the segment of the following dataframe:
+
+![1-1](https://user-images.githubusercontent.com/17474099/118515277-8b1cc400-b735-11eb-87d0-7f0a6db1e57e.png)
+
+What is the type of the column **make**?
+
+- A. [ ] int64
+- B. [ ] float64
+- C. [X] object
+
+Question 5: How would you generate descriptive statistics for all the columns for the dataframe ```df```?
+
+- A. [ ] ```df.describe()```
+- B. [X] ```df.describe(include = "all")```
+- C. [ ] ```df.info```
