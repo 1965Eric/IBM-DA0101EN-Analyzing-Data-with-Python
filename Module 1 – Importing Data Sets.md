@@ -52,3 +52,25 @@ In this lesson, you have learned how to:
 
 [Importing Data Sets](https://github.com/1965Eric/IBM-DA0101EN-Analyzing-Data-with-Python/blob/main/DA0101EN-Review-Introduction.ipynb)
 
+## Graded Quiz: Importing Data Sets
+
+Question 1: What do we want to predict from the dataset?
+
+- A. [X] price
+- B. [ ] colour
+- C. [ ] make
+
+Question 2: Select the libraries you will use for this course:
+
+- A. [X] pandas
+- B. [ ] matplotlib
+- C. [ ] scikit-learn
+
+Question 3: What task does the following command perform?
+
+```df.to_csv("A.csv")```
+
+- A. [X] Save the dataframe ```df``` to a csv file called ```"A.csv"```
+- B. [ ] load the data from a csv file called "A" into a dataframe
+- C. [ ] change the name of the column to ```"A.csv"```
+
