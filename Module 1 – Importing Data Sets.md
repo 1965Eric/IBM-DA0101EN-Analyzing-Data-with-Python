@@ -50,3 +50,5 @@ In this lesson, you have learned how to:
 
 ## Importing Data Sets
 
+[Importing Data Sets](https://github.com/1965Eric/IBM-DA0101EN-Analyzing-Data-with-Python/blob/main/DA0101EN-Review-Introduction.ipynb)
+
