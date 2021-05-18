@@ -18,3 +18,10 @@ Question 2: What is the correct symbol for missing data?
 - A. [X] nan
 - B. [ ] no-data
 
+## Practice Quiz: Data Formatting in Python
+
+Question 1: How would you rename the column ```"city_mpg"``` to ```"city-L/100km"```?
+
+- A. [ ] ```df.rename(columns={”city_mpg”: “city-L/100km”})```
+- B. [X] ```df.rename(columns={”city_mpg”: “city-L/100km”}, inplace=True)```
+
