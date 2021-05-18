@@ -51,6 +51,7 @@ In this lesson, you have learned how to:
 ## Importing Data Sets
 
 [Importing Data Sets](https://github.com/1965Eric/IBM-DA0101EN-Analyzing-Data-with-Python/blob/main/DA0101EN-Review-Introduction.ipynb)
+[Importing Data Sets](http://localhost:8888/lab/tree/Python/IBM%20Python%20Basics%20for%20Data%20Science/2.%20Analyzing%20Data%20with%20Python/DA0101EN-Review-Introduction.ipynb)
 
 ## Graded Quiz: Importing Data Sets
 
