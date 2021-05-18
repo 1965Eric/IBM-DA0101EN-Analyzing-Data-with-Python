@@ -33,3 +33,10 @@ Question 1: Which of the following is the correct formula for z -score or data s
 
 ```c```
 
+## Practice Quiz: Turning Categorical Variables into Quantitative Variables in Python
+
+Question 1: Why do we convert values of Categorical Variables into numerical values?
+
+- A. [X] Most statistical models cannot take in objects or strings as inputs
+- B. [ ] To save memory
+
