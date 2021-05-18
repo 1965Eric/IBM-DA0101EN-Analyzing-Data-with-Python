@@ -29,3 +29,7 @@ Question 1: How would you rename the column ```"city_mpg"``` to ```"city-L/100km
 
 Question 1: Which of the following is the correct formula for z -score or data standardization?
 
+![2-1](https://user-images.githubusercontent.com/17474099/118642561-d25d9000-b7db-11eb-995f-c8f9a766f48a.png)
+
+```c```
+
