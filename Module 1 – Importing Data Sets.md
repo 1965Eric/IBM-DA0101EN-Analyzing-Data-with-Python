@@ -50,7 +50,7 @@ In this lesson, you have learned how to:
 
 ## Importing Data Sets
 
-<a href="https://jupyterlab-0-labs-prod-jupyterlab-us-east-1.labs.cognitiveclass.ai/user/eric12345619/doc/tree/labs/DA0101EN/review-introduction.ipynb" target="_blank">Importing Data Sets</a>
+[Importing Data Sets](https://jupyterlab-0-labs-prod-jupyterlab-us-east-1.labs.cognitiveclass.ai/user/eric12345619/doc/tree/labs/DA0101EN/review-introduction.ipynb){:target="_blank"}
 
 ## Graded Quiz: Importing Data Sets
 
