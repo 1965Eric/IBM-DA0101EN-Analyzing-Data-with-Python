@@ -48,3 +48,7 @@ In this lesson, you have learned how to:
 * **Understand Data Formatting**: Wrangle features in a dataset and make them meaningful for data analysis.
 * **Apply normalization to a data set**: By understanding the relevance of using feature scaling on your data and how normalization and standardization have varying effects on your data analysis.
 
+## Data Wrangling
+
+
+
