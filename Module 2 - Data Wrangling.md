@@ -25,3 +25,7 @@ Question 1: How would you rename the column ```"city_mpg"``` to ```"city-L/100km
 - A. [ ] ```df.rename(columns={”city_mpg”: “city-L/100km”})```
 - B. [X] ```df.rename(columns={”city_mpg”: “city-L/100km”}, inplace=True)```
 
+## Practice Quiz: Data Normalization in Python
+
+Question 1: Which of the following is the correct formula for z -score or data standardization?
+
