@@ -89,3 +89,6 @@ Question 4: The following code is an example of:
 
 Question 5: Consider the two columns ```'horsepower'```, and ```'horsepower-binned'```; from the dataframe ```df```; how many categories are there in the ```'horsepower-binned'``` column?
 
+![2-2](https://user-images.githubusercontent.com/17474099/118684850-da7cf600-b802-11eb-8c5d-73046db2a703.png)
+
+```3```
