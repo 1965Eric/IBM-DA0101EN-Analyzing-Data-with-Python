@@ -52,5 +52,40 @@ In this lesson, you have learned how to:
 
 [Data Wrangling](https://github.com/1965Eric/IBM-DA0101EN-Analyzing-Data-with-Python/blob/main/DA0101EN-Data-wrangling.ipynb)
 
+## Graded Quiz: Data Wrangling
 
+Question 1: What task do the following lines of code perform?
+
+```
+avg=df['horsepower'].mean(axis=0)
+
+df['horsepower'].replace(np.nan, avg)
+```
+
+- A. [ ] calculate the mean value for the ```'horsepower'``` column and replace all the NaN values of that column by the mean value
+- B. [X] nothing; because the parameter ```inplace``` is not set to true
+- C. [ ] replace all the ```NaN``` values with the mean.
+
+Question 2: Consider the dataframe ```df```; convert the column ```df["city-mpg"]``` to ```df["city-L/100km']``` by dividing 235 by each element in the column ```'city-mpg'```.
+
+- A. [ ] ```df['city-L/100km'] = df["city-mpg"].diV(235)```
+- B. [X] ```df['city-L/100km'] = 235/df["city-mpg"]```
+
+Question 3: What data type is the following set of numbers? ```666, 1.1,232,23.12```
+
+- A. [X] float
+- B. [ ] int
+- C. [ ] object
+
+Question 4: The following code is an example of:
+
+```
+(df["length"]-df["length"].mean())/df["length"].std()
+```
+
+- A. [ ] simple feature scaling
+- B. [X] z-score
+- C. [ ] min-max scaling
+
+Question 5: Consider the two columns ```'horsepower'```, and ```'horsepower-binned'```; from the dataframe ```df```; how many categories are there in the ```'horsepower-binned'``` column?
 
