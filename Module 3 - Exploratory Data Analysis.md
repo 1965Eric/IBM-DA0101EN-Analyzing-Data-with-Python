@@ -31,3 +31,5 @@ Question 1: Select the scatter plot with weak correlation:
 
 - B. [X]
 
+![2-8](https://user-images.githubusercontent.com/17474099/118801688-912fb380-b8a1-11eb-8d7a-768320e354af.png)
+
