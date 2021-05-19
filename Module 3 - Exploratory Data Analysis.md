@@ -56,4 +56,5 @@ In this lesson, you have learned how to:
 
 ## Exploratory Data Analysis
 
-[Exploratory Data Analysis]
+[Exploratory Data Analysis](https://github.com/1965Eric/IBM-DA0101EN-Analyzing-Data-with-Python/blob/main/DA0101EN-Exploratory-data-analysis.ipynb)
+
