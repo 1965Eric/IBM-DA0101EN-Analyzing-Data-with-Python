@@ -21,3 +21,9 @@ Question 1: Select the appropriate description of a pivot table:
 - A. [ ] A pivot table contains statistical information for each column.
 - B. [X] A pivot table has one variable displayed along the columns and the other variable displayed along the rows.
 
+## Practice Quiz: Correlation
+
+Question 1: Select the scatter plot with weak correlation:
+
+- A. [ ]
+
