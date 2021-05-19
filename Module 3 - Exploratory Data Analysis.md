@@ -33,3 +33,8 @@ Question 1: Select the scatter plot with weak correlation:
 
 ![2-8](https://user-images.githubusercontent.com/17474099/118801688-912fb380-b8a1-11eb-8d7a-768320e354af.png)
 
+## Practice Quiz: Correlation - Statistics
+
+Question 1: Consider the following scatter plots a,b and c. What plot would have the highest correlation coefficient? (Note: this one is harder than it seems)
+
+
