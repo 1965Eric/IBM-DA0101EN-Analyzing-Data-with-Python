@@ -14,3 +14,10 @@ Question 1: Consider the following scatter plot; what kind of relationship do th
 - A. [X] positive linear relationship
 - B. [ ] negative linear relationship
 
+## Practice Quiz: GroupBy in Python
+
+Question 1: Select the appropriate description of a pivot table:
+
+- A. [ ] A pivot table contains statistical information for each column.
+- B. [X] A pivot table has one variable displayed along the columns and the other variable displayed along the rows.
+
