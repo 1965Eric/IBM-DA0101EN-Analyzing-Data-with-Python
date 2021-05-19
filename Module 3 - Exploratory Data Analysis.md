@@ -37,4 +37,10 @@ Question 1: Select the scatter plot with weak correlation:
 
 Question 1: Consider the following scatter plots a,b and c. What plot would have the highest correlation coefficient? (Note: this one is harder than it seems)
 
+![2-12](https://user-images.githubusercontent.com/17474099/118807980-4023bd80-b8a9-11eb-895a-37a2fb6dab8a.png)
+
+- A. [ ] a
+- B. [ ] b
+- C. [ ] c
+- D. [X] They all have the same value
 
