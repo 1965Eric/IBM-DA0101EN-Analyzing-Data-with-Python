@@ -46,3 +46,11 @@ Question 1: what is the order of the following Polynomial
 - B. [ ] 2
 - C. [X] 3
 
+## Practice Quiz: Measures for In-Sample Evaluation
+
+Question 1: Consider the following lines of code; what value does the variable out contain?
+
+
+
+- A. [ ] Mean Squared Error
+- B. [X] The Coefficient of Determination or R^2
