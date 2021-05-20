@@ -27,3 +27,9 @@ The variable y is?
 - B. [ ] the predictor or independent variable
 - C. [ ] the intercept
 
+## Practice Quiz: Model Evaluation using Visualization
+
+
+
+- A. [X] Yes
+- B. [ ] Incorrect
