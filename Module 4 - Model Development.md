@@ -19,3 +19,11 @@ Question 1: Consider the following lines of code, what variable contains the pre
 
 Question 2: Consider the following equation:
 
+![3-2](https://user-images.githubusercontent.com/17474099/118961442-9d307980-b964-11eb-8c6c-e700c234dec6.png)
+
+The variable y is?
+
+- A. [X] the target or dependent variable
+- B. [ ] the predictor or independent variable
+- C. [ ] the intercept
+
