@@ -50,7 +50,7 @@ Question 1: what is the order of the following Polynomial
 
 Question 1: Consider the following lines of code; what value does the variable out contain?
 
-
+![3-6](https://user-images.githubusercontent.com/17474099/118988127-353c5c00-b981-11eb-90de-468f8efd67c3.png)
 
 - A. [ ] Mean Squared Error
 - B. [X] The Coefficient of Determination or R^2
