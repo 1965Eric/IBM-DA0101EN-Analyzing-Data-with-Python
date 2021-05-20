@@ -9,3 +9,13 @@
 
 ## Practice Quiz: Linear Regression and Multiple Linear Regression
 
+Question 1: Consider the following lines of code, what variable contains the predicted values:
+
+![3-1](https://user-images.githubusercontent.com/17474099/118960042-2cd52880-b963-11eb-85b9-28fd3c9c484e.png)
+
+- A. [ ] ```X```
+- B. [X] ```Yhat```
+- C. [ ] ```Y```
+
+Question 2: Consider the following equation:
+
