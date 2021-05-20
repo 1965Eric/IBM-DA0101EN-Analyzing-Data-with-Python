@@ -7,3 +7,5 @@
 * Describe the use of R-squared and MSE for in-sample evaluation
 * Apply prediction and decision making to Python model creation
 
+## Practice Quiz: Linear Regression and Multiple Linear Regression
+
