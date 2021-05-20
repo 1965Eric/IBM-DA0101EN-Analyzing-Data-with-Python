@@ -29,6 +29,8 @@ The variable y is?
 
 ## Practice Quiz: Model Evaluation using Visualization
 
+Question 1: Consider the following Residual Plot, is our linear model correct:
+
 ![3-3](https://user-images.githubusercontent.com/17474099/118967171-acb2c100-b96a-11eb-8c53-ce1907489bff.png)
 
 - A. [X] Yes
