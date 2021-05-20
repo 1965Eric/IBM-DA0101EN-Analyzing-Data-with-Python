@@ -40,3 +40,9 @@ Question 1: Consider the following Residual Plot, is our linear model correct:
 
 Question 1: what is the order of the following Polynomial
 
+![3-5](https://user-images.githubusercontent.com/17474099/118983791-189e2500-b97d-11eb-810f-f85643a9cdae.png)
+
+- A. [ ] 1
+- B. [ ] 2
+- C. [X] 3
+
