@@ -35,3 +35,8 @@ Question 1: Consider the following Residual Plot, is our linear model correct:
 
 - A. [X] Yes
 - B. [ ] Incorrect
+
+## Practice Quiz: Polynomial Regression and Pipelines
+
+Question 1: what is the order of the following Polynomial
+
