@@ -50,3 +50,28 @@ In this lesson, you have learned how to:
 
 ## Graded Quiz: Model Refinement
 
+Question 1: What is the code to create a ridge regression object ```RR``` with an alpha term equal to 10?
+
+- A. [X] ```RR=Ridge(alpha=10)```
+- B. [ ] ```RR=Ridge(alpha=1)```
+- C. [ ] ```RR=LinearRegression(alpha=10)```
+
+Question 2: What dictionary value would we use to perform a grid search for the following values of alpha? 1,10, 100. No other parameter values should be tested
+
+- A. [ ] ```[{'alpha': [0.001,0.1,1, 10, 100, 1000,10000,100000,100000],'normalize':[True,False]}]```
+- B. [X] ```[{'alpha': [1,10,100]}]```
+- C. [ ] ```alpha=[1,10,100]```
+
+Question 3: You have a linear model; the average ```R^2``` value on your training data is 0.5, you perform a 100th order polynomial transform on your data then use these values to train another model. After this step, your average ```R^2``` is 0.99; which of the following comments is correct?
+
+- A. [X] The results on your training data is not the best indicator of how your model performs; you should use your test data to get a better idea
+- B. [ ] You should always use the simplest model
+- C. [ ] 100-th order polynomial will work better on unseen data
+
+Question 4: Consider the following diagram of 4 fold cross-validation. From the diagram how many folds are used for training?
+
+
+
+- A. [ ] 1
+- B. [X] 3
+- C. [ ] 4
