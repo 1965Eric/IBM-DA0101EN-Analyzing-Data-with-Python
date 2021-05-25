@@ -66,3 +66,43 @@ In this lesson, you have learned how to:
 
 ## Model Development
 
+
+## Graded Quiz: Model Development
+
+Question 1: What does the following line of code do?
+
+```
+lm = LinearRegression()
+```
+
+- A. [X] Create a linear regression object
+- B. [ ] Fit a regression object lm
+- C. [ ] Predict a value
+
+Question 2: What is the maximum value of R^2 that can be obtained?
+
+- A. [X] 1
+- B. [ ] 0
+- C. [ ] 10
+
+Question 3: We create a polynomial feature as follows "PolynomialFeatures(degree=2)"; what is the order of the polynomial?
+
+- A. [ ] 0
+- B. [ ] 1
+- C. [X] 2
+
+Question 4: Which statement is true about Polynomial linear regression?
+
+- A. [ ] Polynomial linear regression is not linear in any way
+- B. [ ] Polynomial linear regression uses linear Wavelets
+- C. [X] Although the predictor variables of Polynomial linear regression are not linear the relationship between the parameters or coefficients is linear
+
+Question 5: Consider the following equation:
+
+
+
+The variable y is what?
+
+- A. [X] The target or dependent variable
+- B. [ ] The intercept
+- C. [ ] The predictor or independent variable
