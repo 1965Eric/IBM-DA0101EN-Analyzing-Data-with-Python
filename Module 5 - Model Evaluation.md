@@ -70,8 +70,16 @@ Question 3: You have a linear model; the average ```R^2``` value on your trainin
 
 Question 4: Consider the following diagram of 4 fold cross-validation. From the diagram how many folds are used for training?
 
-
+![3-11](https://user-images.githubusercontent.com/17474099/119534448-35749700-bd87-11eb-9d69-869eb5617718.png)
 
 - A. [ ] 1
 - B. [X] 3
 - C. [ ] 4
+
+Question 5: The following is an example of what?
+
+
+
+- A. [ ] Overfitting
+- B. [ ] Perfect fit
+- C. [X] Underfitting
