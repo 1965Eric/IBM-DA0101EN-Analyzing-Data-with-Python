@@ -99,7 +99,7 @@ Question 4: Which statement is true about Polynomial linear regression?
 
 Question 5: Consider the following equation:
 
-
+![3-2](https://user-images.githubusercontent.com/17474099/119483275-152be480-bd55-11eb-8652-0a68fc0d09aa.png)
 
 The variable y is what?
 
