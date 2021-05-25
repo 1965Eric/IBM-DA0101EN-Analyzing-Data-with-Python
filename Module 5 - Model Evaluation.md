@@ -26,3 +26,7 @@ Question 1: In the following plot, the vertical axis shows the mean square error
 
 Ridge regression is a regression that is employed in a Multiple regression model when Multicollinearity occurs. Multicollinearity is when there is a strong relationship among the independent variables. Ridge regression is very common with polynomial regression. Ridge regression is used to regularize and reduce the standard errors to avoid over-fitting a regression model.
 
+## Practice Quiz: Ridge Regression
+
+Question 1: The following models were all trained on the same data. Select the model with the lowest value for alpha:
+
