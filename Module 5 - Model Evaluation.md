@@ -78,7 +78,7 @@ Question 4: Consider the following diagram of 4 fold cross-validation. From the 
 
 Question 5: The following is an example of what?
 
-
+![3-12](https://user-images.githubusercontent.com/17474099/119534853-aae06780-bd87-11eb-8abc-1616be7ab8fa.png)
 
 - A. [ ] Overfitting
 - B. [ ] Perfect fit
