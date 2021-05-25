@@ -30,3 +30,9 @@ Ridge regression is a regression that is employed in a Multiple regression model
 
 Question 1: The following models were all trained on the same data. Select the model with the lowest value for alpha:
 
+![3-10](https://user-images.githubusercontent.com/17474099/119526378-a0ba6b00-bd7f-11eb-83a6-2a0e7f271552.png)
+
+- A. [X] a
+- B. [ ] b
+- C. [ ] c
+
