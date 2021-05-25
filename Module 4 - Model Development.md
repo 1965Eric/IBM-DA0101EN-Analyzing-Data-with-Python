@@ -79,13 +79,13 @@ lm = LinearRegression()
 - B. [ ] Fit a regression object lm
 - C. [ ] Predict a value
 
-Question 2: What is the maximum value of R^2 that can be obtained?
+Question 2: What is the maximum value of ```R^2``` that can be obtained?
 
 - A. [X] 1
 - B. [ ] 0
 - C. [ ] 10
 
-Question 3: We create a polynomial feature as follows "PolynomialFeatures(degree=2)"; what is the order of the polynomial?
+Question 3: We create a polynomial feature as follows ```"PolynomialFeatures(degree=2)"```; what is the order of the polynomial?
 
 - A. [ ] 0
 - B. [ ] 1
