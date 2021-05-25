@@ -17,3 +17,7 @@ Question 1: What function randomly splits a dataset into training and testing su
 
 Question 1: In the following plot, the vertical axis shows the mean square error and the horizontal axis represents the order of the polynomial. The red line represents the training error the blue line is the test error. Should you select the 16 order polynomial.
 
+![3-8](https://user-images.githubusercontent.com/17474099/119517776-33570c00-bd78-11eb-9c8f-84a2c0838063.png)
+
+- A. [X] No
+- B. [ ] Yes
