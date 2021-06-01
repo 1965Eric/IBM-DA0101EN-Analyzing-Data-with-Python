@@ -11,3 +11,13 @@ You will use Watson Studio to perform the analysis, and share an image of your f
 
 Notebook URL: Create a Notebook in Watson Studio and use the option ‘From URL’ to import the final notebook. Copy the link given below: https://cocl.us/da0101en_coursera_labb
 
+## Peer-Graded Assignment: Final Assignment
+
+[Final Assignment](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/instructions.md.html)
+
+[Dataset](https://www.kaggle.com/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-coursesedxorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2021-01-01)
+
+[IBM Watson Setup](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/IBM_Watson_Setup.md.html)
+
+[Upload your Notebook](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/UploadnotebookDA.md.html)
+
