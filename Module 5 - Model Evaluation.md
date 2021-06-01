@@ -46,7 +46,7 @@ In this lesson, you have learned how to:
 
 ## Model Evaluation and Refinement
 
-[Model Evaluation and Refinement](
+[Model Evaluation and Refinement](https://github.com/1965Eric/IBM-DA0101EN-Analyzing-Data-with-Python/blob/main/DA0101EN-Model-evaluation-and-refinement.ipynb)
 
 ## Graded Quiz: Model Refinement
 
