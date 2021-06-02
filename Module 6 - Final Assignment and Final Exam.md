@@ -13,11 +13,15 @@ Notebook URL: Create a Notebook in Watson Studio and use the option â€˜From URLâ
 
 ## Peer-Graded Assignment: Final Assignment
 
-[Final Assignment](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/instructions.md.html)
+[Instructions Final Assignment](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/instructions.md.html)
 
 [Dataset](https://www.kaggle.com/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-coursesedxorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2021-01-01)
 
 [IBM Watson Setup](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/IBM_Watson_Setup.md.html)
 
 [Upload your Notebook](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/UploadnotebookDA.md.html)
+
+[Answers Final Assignment](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/f3f7dc1b-b6da-48c1-90c2-084864ddf4ab/view?access_token=ee472eb47701b434cd7b2c1c85993444517c2dd02a100db4fc36b28de1ce7e60)
+
+## Final Exam
 
